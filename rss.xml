@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[GothBoiClique ⚔️]]></title><description><![CDATA[This is what makes us girls.]]></description><link>https://gatsby-starter-blog-demo.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 29 Feb 2020 18:39:43 GMT</lastBuildDate><item><title><![CDATA[Hello World]]></title><description><![CDATA[Hello World!]]></description><link>https://gatsby-starter-blog-demo.netlify.com/hello-world/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/hello-world/</guid><pubDate>Sat, 29 Feb 2020 18:22:35 GMT</pubDate><content:encoded>&lt;p&gt;Hello World!&lt;/p&gt;</content:encoded></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[GothBoiClique ⚔️]]></title><description><![CDATA[This is what makes us girls.]]></description><link>https://gatsby-starter-blog-demo.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 29 Feb 2020 19:26:46 GMT</lastBuildDate><item><title><![CDATA[README]]></title><description><![CDATA[Hi, my beautiful lovelies 🥰. This is my first chooche at the website for peoples musings and what not. It’s very simple right now, but also…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/README/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/README/</guid><pubDate>Sat, 29 Feb 2020 19:17:15 GMT</pubDate><content:encoded>&lt;p&gt;Hi, my beautiful lovelies 🥰. This is my first chooche at the website for peoples musings and what not. It’s very simple right now, but also inoffensive and very performant. Let me know if you think anything should change? 🥰&lt;/p&gt;
+&lt;h3&gt;How to publish&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Fork the &lt;a href=&quot;https://github.com/GBCharlie/redesigned-bassoon&quot;&gt;repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add whatever content you want to the &lt;code class=&quot;language-text&quot;&gt;/content&lt;/code&gt; directory.&lt;/li&gt;
+&lt;li&gt;Pull request back into the master branch of this repo.&lt;/li&gt;
+&lt;li&gt;Travis will build the everything and boof all of your wonderful content out to the CDN (github pages in this case)&lt;/li&gt;
+&lt;li&gt;YAY! That’s all 🥰&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Things I’ll add soon&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; Dark Mode&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; The ability to add author data at the top of Markdown files and then have gatsby build it into pages.&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; Ability to push to IPFS instead of a conventional CDN&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; Probably lots of other stuff. I’m tiered and working on this made me very sad. RIP Github RIP LIL PEEP.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Other than that everything is up to you guys&lt;/h3&gt;
+&lt;p&gt;If you decide you think the page should look different. I can do that. If you decide you don’t like the whole Markdown monorepo thing. We can change it to a CMS like Contentful or Worldpress. We can also pick a domain name any time you like and it’s whatever man like Sia always says.&lt;/p&gt;
+&lt;h3&gt;A fun thing to try&lt;/h3&gt;
+&lt;p&gt;Put your phone on airplane mode. The website should still work. WOW. So cool&lt;/p&gt;
+&lt;p&gt;As Kanye West said:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We’re living the future so
+the present is our past.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Ok, Bye guys. Love you 💆&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[Hello World!]]></description><link>https://gatsby-starter-blog-demo.netlify.com/hello-world/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/hello-world/</guid><pubDate>Sat, 29 Feb 2020 18:22:35 GMT</pubDate><content:encoded>&lt;p&gt;Hello World!&lt;/p&gt;</content:encoded></item></channel></rss>
