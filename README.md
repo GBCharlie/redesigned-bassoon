@@ -1,1 +1,1 @@
-./content/blog/README.md
+content/blog/readme/index.md
